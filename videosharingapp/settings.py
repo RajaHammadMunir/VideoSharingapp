@@ -9,7 +9,7 @@ SECRET_KEY = '067dowgvbbhxh670i8#gox(_pq37*yj(wjt)9yg@+dz-)oggpr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['videosharingapp.azurewebsites.com']
+ALLOWED_HOSTS = ['videosharingapp.azurewebsites.net']
 
 
 # Application definition
